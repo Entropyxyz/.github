@@ -4,5 +4,5 @@ We're thrilled you're here! Our GitHub Organization houses various projects, ref
 
 # Quick links
 
-* [Entrosplainer](https://entropy-docs.vercel.app/Intro) - High-level explanation of the Entropy network, its SDK, and related concepts.
-* [Entropy API documentation](https://docs-api-entropy-core.vercel.app) - Landing page for all Entropy client libraries and REST APIs.
+* [Documentation](https://docs.entropy.xyz)
+* [Entrosplainer](https://docs.entropy.xyz/Intro) - High-level explanation of the Entropy network, its SDK, and related concepts.
