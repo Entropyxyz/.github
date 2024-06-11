@@ -4,5 +4,7 @@ We're thrilled you're here! Our GitHub Organization houses various projects, ref
 
 # Quick links
 
-* [Documentation](https://docs.entropy.xyz)
-* [Entrosplainer](https://docs.entropy.xyz/Intro) - High-level explanation of the Entropy network, its SDK, and related concepts.
+New to Entropy? Check out our [documentation](https://docs.entropy.xyz/), or start here:
+
+* [Entrosplainer](https://docs.entropy.xyz/basics/entrosplainer) - High-level explanation of the Entropy Network, its SDK, and related concepts.
+* [CLI reference](https://docs.entropy.xyz/reference/cli) - Straightforward way to experiment with the Entropy Network and explore common workflows.
